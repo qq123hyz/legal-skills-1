@@ -18,9 +18,15 @@
 
 ## 关于作者
 
-潘睿律师 - 热衷于将 AI 技术应用于法律实务。
+潘睿，执业律师，现执业于广东广和（长春）律师事务所。
+
+我持续建设面向中国法律实务的 AI 工作流项目，包括 `legal-skills`、`enterprise-legal-ops`、`agent-content-workspace` 和法律 Wiki。`legal-skills` 是其中的法律任务层，用来把中国法律工作拆成可路由、可复核、可接管的 Agent Skills。
 
 个人官网：[https://www.panrui.xyz/](https://www.panrui.xyz/)
+
+中国法律 AI 主线：[https://www.panrui.xyz/topics/china-legal-ai/](https://www.panrui.xyz/topics/china-legal-ai/)
+
+公开邮箱：[418869057@qq.com](mailto:418869057@qq.com)
 
 欢迎添加微信交流（请注明来意）：
 
